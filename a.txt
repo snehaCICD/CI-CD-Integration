@@ -2,3 +2,4 @@ This is test
 changes done by NIKITA:wq!
 This is new change
 changes done by Sneh
+This is another change
